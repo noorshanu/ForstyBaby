@@ -5,7 +5,7 @@ import CopyAddress from "./CopyAddress";
 function Hero() {
   return (
     <section className="  py-4 ">
-      <div className=" container-wrapper pt-[25%] sm:pt-[5%]  overflow-hidden relative">
+      <div className=" container-wrapper pt-[5%] sm:pt-[5%]  overflow-hidden relative">
         <div className=" flex justify-between flex-col sm:flex-row items-center ">
           <div className=" w-full sm:w-1/2">
             <div>
