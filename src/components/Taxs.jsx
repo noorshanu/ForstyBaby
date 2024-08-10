@@ -76,7 +76,7 @@ function Taxs() {
             Total Supply 1.000.000.000
           </h1>
           <p className="text-center text-white font-bold mt-4 bg-[#157494] border-[#000000] border-2 py-2 rounded-xl">
-            Contract Adress: coming soon...
+            Contract Adress: 4PqHDB6UovVqupTJy3yoRiK7VxDP68oHy6EhtYhBbw1J
           </p>
         </div>
       </div>
