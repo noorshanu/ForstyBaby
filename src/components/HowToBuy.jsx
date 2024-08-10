@@ -22,7 +22,7 @@ function HowToBuy() {
     
 
         <div className="border-4 border-[#000000] bg-[#1574942d] rounded-xl p-2 backdrop-blur-sm box-s2 mx-auto max-w-full sm:max-w-[900px] my-4">
-          <div className=" flex items-center gap-4 ">
+          <div className=" flex flex-col sm:flex-row items-center gap-4 ">
             <div className=" mr-4 w-[300px]">
               <h2 className=" font-bold text-4 text-sad text-4xl py-2 text-black font-snow text-center">
                 Step 1
@@ -46,7 +46,7 @@ function HowToBuy() {
         </div>
 
         <div className="border-4 border-[#000000] bg-[#1574942d] rounded-xl p-2 backdrop-blur-sm box-s2 mx-auto max-w-full sm:max-w-[900px] my-4">
-          <div className=" flex items-center gap-4 ">
+          <div className=" flex flex-col sm:flex-row items-center gap-4 ">
             <div className=" mr-4 w-[300px]">
               <h2 className=" font-bold text-4 text-sad text-4xl py-2 text-black font-snow text-center">
                 Step 2
@@ -66,7 +66,7 @@ function HowToBuy() {
         </div>
 
         <div className="border-4 border-[#000000] bg-[#1574942d] rounded-xl p-2 backdrop-blur-sm box-s2 mx-auto max-w-full sm:max-w-[900px] my-4">
-          <div className=" flex items-center gap-4 ">
+          <div className=" flex flex-col sm:flex-row items-center gap-4 ">
             <div className=" mr-4 w-[300px]">
               <h2 className=" font-bold text-4 text-sad text-4xl py-2 text-black font-snow text-center">
                 Step 3
@@ -86,7 +86,7 @@ function HowToBuy() {
         </div>
 
         <div className="border-4 border-[#000000] bg-[#1574942d] rounded-xl p-2 backdrop-blur-sm box-s2 mx-auto max-w-full sm:max-w-[900px] my-4">
-          <div className=" flex items-center gap-4 ">
+          <div className=" flex flex-col sm:flex-row items-center gap-4 ">
             <div className=" mr-4 w-[300px]">
               <h2 className=" font-bold text-4 text-sad text-4xl py-2 text-black font-snow text-center">
                 Step 4

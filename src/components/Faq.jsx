@@ -11,18 +11,18 @@ function Faq() {
       
 
             <Marquee  className=' '> 
-              <img src="images/img2.jpeg" alt="" className='h-auto sm:h-[300px]' />
+              <img src="images/img2.jpeg" alt="" className='h-[300px]' />
 
-              <img src="images/img3.jpeg" alt="" className=' h-auto sm:h-[300px]' />
-              <img src="images/img1.jpeg" alt="" className=' h-auto sm:h-[300px]' />
-              <img src="images/img4.jpeg" alt="" className=' h-auto sm:h-[300px]' />
-              <img src="images/img5.jpeg" alt="" className=' h-auto sm:h-[300px]' />
-              <img src="images/img2.jpeg" alt="" className='h-auto sm:h-[300px]' />
+              <img src="images/img3.jpeg" alt="" className=' h-[300px]' />
+              <img src="images/img1.jpeg" alt="" className=' h-[300px]' />
+              <img src="images/img4.jpeg" alt="" className='h-[300px]' />
+              <img src="images/img5.jpeg" alt="" className=' h-[300px]' />
+              <img src="images/img2.jpeg" alt="" className='h-[300px]' />
 
-<img src="images/img3.jpeg" alt="" className=' h-auto sm:h-[300px]' />
-<img src="images/img1.jpeg" alt="" className=' h-auto sm:h-[300px]' />
-<img src="images/img4.jpeg" alt="" className=' h-auto sm:h-[300px]' />
-<img src="images/img5.jpeg" alt="" className=' h-auto sm:h-[300px]' />
+<img src="images/img3.jpeg" alt="" className=' h-[300px]' />
+<img src="images/img1.jpeg" alt="" className=' h-[300px]' />
+<img src="images/img4.jpeg" alt="" className=' h-[300px]' />
+<img src="images/img5.jpeg" alt="" className=' h-[300px]' />
          
 </Marquee>
            
