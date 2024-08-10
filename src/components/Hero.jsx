@@ -86,7 +86,7 @@ function Hero() {
               data-aos-duration="1500"
             >
               <div className=" flex flex-row-reverse justify-start w-full max-w-[300px] gap-4  py-4">
-                <a href="#" className=" mx-auto ">
+                <a href="#" className=" mx-auto " target="_blank" rel="noreferrer">
                   {" "}
                   <img
                     src="/images/dex.svg"
@@ -95,7 +95,7 @@ function Hero() {
                   />
                 </a>
 
-                <a href="#" className=" mx-auto ">
+                <a href="https://t.me/BabyFrosty_sol" className=" mx-auto " target="_blank" rel="noreferrer" >
                   {" "}
                   <img
                     src="/images/tele.svg"
@@ -105,7 +105,7 @@ function Hero() {
                 </a>
 
                 <a
-                  href="https://x.com/BabyFrosty_Sol"
+                  href="https://x.com/BabyFrosty_Sol" target="_blank" rel="noreferrer"
                   className=" mx-auto bg-[#05a3c9] p-4 rounded-full "
                 >
                   {" "}

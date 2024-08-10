@@ -41,7 +41,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/" target="_blank"  rel="noreferrer"
+                  href="https://t.me/BabyFrosty_sol" target="_blank"  rel="noreferrer"
                   className=" text-xl text-white bg-[#05a3c9] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
@@ -104,7 +104,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/" target="_blank" rel="noreferrer"
+                  href="https://t.me/BabyFrosty_sol" target="_blank" rel="noreferrer"
                   className=" text-xl text-black bg-[#05a3c9] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
