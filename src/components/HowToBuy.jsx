@@ -13,7 +13,7 @@ function HowToBuy() {
           >
             <h1 className=" text-3xl sm:text-7xl font-bold font-snow py-1 text-center text-black text-sad">
               {" "}
-              How To BUY $PUPE
+              How To BUY $BABYF
             </h1>
            
           </div>
@@ -95,7 +95,7 @@ function HowToBuy() {
 
             <div className="w-full">
               <h2 className=" font-bold font-snow text-3xl py-2 txt-s text-white">
-              BUY $FBaby
+              BUY $BABYF
               </h2>
 
               <p className=" text-white">

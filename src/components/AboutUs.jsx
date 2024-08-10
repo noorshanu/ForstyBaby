@@ -32,7 +32,7 @@ function AboutUs() {
 
             <p className=" text-lg text-white  py-2">
               Welcome to Antarctica, home of Baby Frosty the Polar Bear—the
-              coldest meme on Solana. Frosty isn’t your average bear; he’s
+              coldest meme on Solana. $BABYF isn’t your average bear; he’s
               mastering the icy blockchain, outmaneuvering rivals, and leaving
               his frosty footprint with every calculated move. 
             </p>
@@ -40,7 +40,7 @@ function AboutUs() {
             <p className=" text-lg text-white">
             Whether in a bull
               run or a cold spell, Baby Frosty is making his mark, cruising in
-              his blue Lamborghini. Join the frosty revolution and witness Baby
+              his blue Lamborghini. Join the $BABYF revolution and witness Baby
               Frosty dominate the Solana tundra!
             </p>
           </div>
