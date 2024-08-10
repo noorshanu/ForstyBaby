@@ -105,7 +105,7 @@ function Hero() {
                 </a>
 
                 <a
-                  href="https://x.com/"
+                  href="https://x.com/BabyFrosty_Sol"
                   className=" mx-auto bg-[#05a3c9] p-4 rounded-full "
                 >
                   {" "}
